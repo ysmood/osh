@@ -1,0 +1,1 @@
+The actual core of the osh, other parts are just shared libraries or plugins.
